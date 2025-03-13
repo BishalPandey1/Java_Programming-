@@ -1,7 +1,7 @@
 public class SizePrinter {
 
     public static void main(String[] args) {
-        int sizeNumber = 2; // Replace with your desired size (1, 2, 3, 4, or 5)
+        int sizeNumber = 2; 
 
         switch (sizeNumber) {
             case 1:
