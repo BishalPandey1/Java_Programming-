@@ -16,10 +16,11 @@ class Bat implements Animal, Bird {
     }
 }
 
-public class Multiple {
+public class Multiple_inheritance {
     public static void main(String[] args) {
         Bat bat = new Bat();
         bat.eat();
         bat.fly();
     }
 }
+
