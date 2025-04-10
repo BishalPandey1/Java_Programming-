@@ -23,4 +23,3 @@ public class Multiple_inheritance {
         bat.fly();
     }
 }
-
