@@ -13,7 +13,6 @@ public class SimpleInput {
         System.out.println("\n--- Your Details ---");
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
-
         sc.close();  
     }
 }
