@@ -17,5 +17,6 @@ class Wild_animal extends Animal{
 class Tiger extends Wild_animal{
     Tiger(){
         System.out.println("Tiger is the king of the forest");
+        System.out.println("This is the best example code");
     }
 }
