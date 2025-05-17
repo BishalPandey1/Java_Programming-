@@ -22,14 +22,14 @@ class Cat extends Animal {
     }
 }
 
-// Main class to test the implementation
+
 public class AbstractClassExample {
     public static void main(String[] args) {
         // Create objects of Dog and Cat
         Animal myDog = new Dog();
         Animal myCat = new Cat();
 
-        // Call makeSound() for each object
+
         myDog.makeSound();
         myCat.makeSound();
     }
