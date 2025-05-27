@@ -45,3 +45,5 @@ public class SwitchStatement {
         scanner.close(); // Close the scanner
     }
 }
+
+
