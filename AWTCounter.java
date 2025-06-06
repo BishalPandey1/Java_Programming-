@@ -65,5 +65,6 @@ public class AWTCounter extends Frame {
          tfCount.setText(count + ""); // Convert int to String
       }
    }
+   
 }
 
