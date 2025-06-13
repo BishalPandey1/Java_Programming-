@@ -26,12 +26,12 @@ public class AWTCounter extends Frame {
 
       btnCount.addActionListener(new BtnCountListener());  // anonymous instance
       // same as
-      //BtnCountListener listener = new BtnCountListener();
-      //btnCount.addActionListener(listener);
-         // "btnCount" is the source object that fires an ActionEvent when clicked.
-         // The source object adds an instance of BtnCountListener as an ActionEvent listener,
-         //   which provides an ActionEvent handler called actionPerformed().
-         // Clicking "Count" button calls back actionPerformed().
+      // BtnCountListener listener = new BtnCountListener();
+      // btnCount.addActionListener(listener);
+      //    "btnCount" is the source object that fires an ActionEvent when clicked.
+      //    The source object adds an instance of BtnCountListener as an ActionEvent listener,
+      //      which provides an ActionEvent handler called actionPerformed().
+      //    Clicking "Count" button calls back actionPerformed().
 
       setTitle("AWT Counter");  // "super" Frame sets its title
       setSize(300, 100);        // "super" Frame sets its initial window size
@@ -65,6 +65,6 @@ public class AWTCounter extends Frame {
          tfCount.setText(count + ""); // Convert int to String
       }
    }
-   
+
 }
 
