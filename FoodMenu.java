@@ -74,3 +74,5 @@ public class FoodMenu {
         frame.setVisible(true);
     }
 }
+
+
