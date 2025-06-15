@@ -18,3 +18,8 @@ class Inheritance {
         obj.animal(2,3);
     }
 }
+
+
+
+
+
