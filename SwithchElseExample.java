@@ -26,3 +26,5 @@ public class SwitchElseExample {
         scanner.close();
     }
 }
+
+
