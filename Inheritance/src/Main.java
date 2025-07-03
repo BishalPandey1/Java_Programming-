@@ -23,3 +23,5 @@ class Bog extends Animal{
     Bog(){
     }
 }
+
+
