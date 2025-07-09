@@ -10,7 +10,6 @@ public class Bishal {
             System.out.println("The value of a and be is equal with each other");
         } else {
             System.out.println("The value of a and be is not equal with each other");
-
         }
         Bishal b1 = new Bishal();
         b1.Function_over_loading(3);
@@ -66,5 +65,3 @@ public class Bishal {
     }
 
 }
-
-
