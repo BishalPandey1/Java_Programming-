@@ -10,6 +10,3 @@ public class Array.java {
         }
     }
 }
-
-
-
