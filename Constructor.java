@@ -10,3 +10,4 @@ class Constructor {
         Constructor geek = new Constructor();
     }
 }
+//This  one  how  constructor work.
