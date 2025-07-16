@@ -8,5 +8,3 @@ public class DoWhileLoop{
         } while (i <= 10);
     }
 }
-
-
