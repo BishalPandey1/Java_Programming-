@@ -11,11 +11,18 @@ class Dog extends Animal{
         System.out.println("The dog social animal");
     }
 }
+class Cat extends Animal{
+    void cat(){
+        System.out.println("The cat sound is meau");
+    }
+}
 class Inheritance {
     public static void main(String[] args) {
         Dog obj = new Dog();
         obj.dog();
         obj.animal(2,3);
+        Cat objj = new Cat();
+        objj.cat();
     }
 }
 
