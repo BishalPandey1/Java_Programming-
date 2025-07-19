@@ -28,9 +28,6 @@ public class Calculator {
 
         JLabel jbl = new JLabel("Answer with display");
         jb1.setBounds(350,350,100,100);
-//        jf.add(ans);
-//        jf.setLayout(null);
-//        jf.setVisible(true);
         jb1.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -45,5 +42,3 @@ public class Calculator {
         });
     }
 }
-
-
