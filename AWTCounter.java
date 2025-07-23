@@ -14,6 +14,7 @@ public class AWTCounter extends Frame {
          // "super" Frame, which is a Container, sets its layout to FlowLayout to arrange
          // the components from left-to-right, and flow to next row from top-to-bottom.
 
+      
       lblCount = new Label("Counter");  // construct the Label component
       add(lblCount);                    // "super" Frame container adds Label component
 
@@ -66,4 +67,3 @@ public class AWTCounter extends Frame {
       }
    }
 }
-
